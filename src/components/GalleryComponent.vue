@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-row">
-<div class="basis-1/4 hover:basis-1/2 m-2" >
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-1000" >
     <a href="#">
         <img class="rounded-t-lg" variant="horizontal"  src="https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig9777_2_footwear_photography_side20lateral20view_grey.jpg" alt="" />
     </a>
@@ -19,7 +19,7 @@
     </div>
 </div>
 <br>
-<div class="basis-1/4 hover:basis-1/2 m-2">
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-1000">
     <a href="#">
         <img class="rounded-t-lg" src="https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig2578_2_footwear_photography_side20lateral20view_grey.jpg" alt="" />
     </a>
@@ -38,7 +38,7 @@
     </div>
 </div>
 <br>
-<div class="basis-1/4 hover:basis-1/2 m-2">
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-1000">
     <a href="#">
         <img class="rounded-t-lg" src="https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/f/if0642_2_footwear_photography_side20lateral20view_grey.jpg" alt="" />
     </a>

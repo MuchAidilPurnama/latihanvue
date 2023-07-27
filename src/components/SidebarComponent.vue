@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-row">
-<div class="basis-1/4 hover:basis-1/2 m-2" >
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-900" >
     <a href="#">
         <img class="rounded-t-lg" variant="horizontal"  src="https://houseofsmith.co.id/wp-content/uploads/2022/04/rug-1649003052675-0.jpeg.jpg.jpg.jpg" alt="" />
     </a>
@@ -19,7 +19,7 @@
     </div>
 </div>
 <br>
-<div class="basis-1/4 hover:basis-1/2 m-2">
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-900">
     <a href="#">
         <img class="rounded-t-lg" src="https://houseofsmith.co.id/wp-content/uploads/2021/11/rug-1637560255070-0.jpeg.jpg" alt="" />
     </a>
@@ -38,7 +38,7 @@
     </div>
 </div>
 <br>
-<div class="basis-1/4 hover:basis-1/2 m-2">
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-900">
     <a href="#">
         <img class="rounded-t-lg" src="https://houseofsmith.co.id/wp-content/uploads/2021/12/1.jpg" alt="" />
     </a>

@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-row">
-<div class="basis-1/4 hover:basis-1/2 m-2" >
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-1000" >
     <a href="#">
         <img class="rounded-t-lg" variant="horizontal"  src="https://balenciaga.dam.kering.com/m/4474d324a77040ab/Medium-600583TIV841070_F.jpg?v=5" alt="" />
     </a>
@@ -19,7 +19,7 @@
     </div>
 </div>
 <br>
-<div class="basis-1/4 hover:basis-1/2 m-2">
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-1000">
     <a href="#">
         <img class="rounded-t-lg" src="https://balenciaga.dam.kering.com/m/4f7f09bb068bb0ed/Medium-600583TKVI91379_F.jpg?v=4" alt="" />
     </a>
@@ -38,7 +38,7 @@
     </div>
 </div>
 <br>
-<div class="basis-1/4 hover:basis-1/2 m-2">
+<div class="basis-1/4 hover:basis-1/2 m-2 shadow dark:bg-gray-1000 dark:border-gray-1000">
     <a href="#">
         <img class="rounded-t-lg" src="https://balenciaga.dam.kering.com/m/4dcddd104d39ab80/Medium-767885TPVF19000_F.jpg?v=1" alt="" />
     </a>
