@@ -4,13 +4,13 @@
     <br>
     <Header></Header>
     <br>
-    <h1 align="center">IKLAN</h1>
+    <h1 align="center" style="color: black;" class="font-mono m-2">Varsicy Jacket</h1>
     <SidebarComponent></SidebarComponent>
     <br>
-    <h1 class="m-2">Pilihan Anda</h1>
+    <h1 align="center" style="color: black;" class="font-mono m-2">Hoodie Balenciaga</h1>
     <ContentPage></ContentPage>
     <br>
-    <h1 class="m-2">Gallery</h1>
+    <h1 align="center" style="color: black;" class="font-mono m-2">Sepatu Adidas</h1>
     <GalleryComponent></GalleryComponent>
     <br>
     <FooterComponent></FooterComponent>
